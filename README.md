@@ -1,5 +1,10 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+## Created by AbelLevran 21343038
+Terkait source code pada jobsheet ini, mempelajari tentang perulangan(loop),perulangan dibagi menjadi 4 ,yaitu perulangan For,While,Do-While,dan nested loop.
+
+1.Perulangan For, merupakan perulangan yang dilakukan ketika kondisi kapan perulangan dihentikan dan banyaknya proses perulangan sudah diketahui.
+
+2.Perulangan While merupakan sebuah perulangan yang kondisi berhenti sudah diketahui tetapi banyaknya proses perulangan belum diketahui. Perbedaannya dengan for yaitu perulangan while nilai awal diberikan di luar dan peningkatan nilai variabel pengontrol perulangan dilakuakan di dalam statement.
+
+3.Perulangan Do-While hampir sama dengan perulangan while yaitu sebuah perulangan yang kondisi berhenti sudah diketahui tetapi banyaknya proses perulangan yang dilakuakan belum diketahui. Pada perulangan do-while, pernyataan do, mula-mula pernyataan dijalankan. Selanjutnya, kondisi diuji. Seandainya kondisi bernilai benar, maka pernyataan dijalankan lagi, kemudian kondisi diperiksa kembali, dan seterusnya. Kalau kondisi bernilai salah pada saat dites, maka pernyataantidak dijalankan lagi.
+
+4.Perulangan Bersarang (Nested Loop); yaitu perulangan yang di dalamnya mencakup beberapa perulangan lainnya.
